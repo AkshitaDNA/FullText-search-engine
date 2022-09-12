@@ -1,9 +1,9 @@
 # Search Engine Project
 A Full-text unigram search engine implemented in c++.
 ## Project Author - 
-- Prakash Chand
+- Akshita BHatt
 ## Aim
-The aim of this project is to build a prototype of a search engine which works on Student database and retrieve the details based on query.This search engine takes user student database in json format.
+The aim of this project is to build a prototype of a search engine which works on Student database and retrieve the details based on query. This search engine takes user student database in json format.
 This search engine is full text search engine unlike exact value search in Data Base Management System.
 
 **Here without using the concept of _machine learning_ , aim was to make it a better search engine by applying word similarity like jump and leap are same and stemming like jumping to jump etc**.
